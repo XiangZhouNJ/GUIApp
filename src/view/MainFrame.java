@@ -209,7 +209,6 @@ public class MainFrame extends JFrame {
 			}
 		});
 		southPanel.add(btnNewButton);
-
 	}
 
 }
